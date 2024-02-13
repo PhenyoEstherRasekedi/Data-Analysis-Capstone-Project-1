@@ -4,6 +4,8 @@
 
 This project aims to provide insight into the sales performance of an online global retailer. This will be done by analyzing and drawing out meaningful insight from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
 
+**_Disclaimer_** : \_ all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi.\_
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the 'GlobalSuperstore-Capstone.xlsx-Orders.csv' file, containing detailed information about clients from 147 different countries, 10,000 products of three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
@@ -57,6 +59,7 @@ EDA involved exploring the sales data to answer the following key questions:
 The following PowerBi features were incorporated:
 
 - Filters
+- Tooltips
 - Interactive Slicers
 
 ### Results/Findings
@@ -77,4 +80,16 @@ The analysis results are summarized as follows:
 
 4. The least profitable subcategory in South East Asia is Tables with a loss of -$4013. The country which they should not be sold is Singapore with low sales of $1495 compared to $32503 of Indonesia.
 
-5. The least profitable country in terms of average profit in the US is Freeport with a loss of -$44 in 2014. Freeport only had 10 orders in 2014 and the cost to ship was $34.
+5. The least profitable country in terms of average profit in the US was Freeport with a loss of -$44 in 2014. Freeport only had 10 orders in 2014 and the cost to ship was $34.
+
+6. The subcategory with the highest average profit in Australia in 2014 was Appliances.
+
+7. The 5 most valuable customers by profit generated for the company are Tamara Chand, Hunter Lopez, Raymond Buch, Bill Eplett and Sanjit Chand.
+
+The top 5 products they purchase are:
+
+- HP Fax and Copier digital,
+- Canon imageClass 2200 Advanced Copier,
+- Samsung Smaert phone cordless,
+- Canon wireless fax laser
+- Ibico EPK-21 Electric Binding System.
