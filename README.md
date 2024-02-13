@@ -4,7 +4,7 @@
 
 This project aims to provide insight into the sales performance of an online global retailer. This will be done by analyzing and drawing out meaningful insight from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
 
-**_Disclaimer_** : \_ all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi.\_
+**_Disclaimer_** : _ all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi._
 
 ### Data Sources
 
