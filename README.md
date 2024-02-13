@@ -65,4 +65,10 @@ The analysis results are summarized as follows:
 
 1. a) The three countries that generated the highest profit in 2014 were the United States, India and China.
 
+- For the United States, the Canon ImageCLASS 2200 Advanced Copier brought in profit of $25,200. The second highest selling product was the Fellows PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind with $7753. The third highest selling product was Hewlett Packard LaserJet 3310 Copier with $6,984.
+
+- For India, the Sauder Classic Bookcase, Traditional brought in profit of $2,904. The second highest selling product was the Apple Smart Phone, with caller ID with $2,818. The third highest selling product was the Cisco Smart Phone, with Caller ID with $1,609.
+
+- For China, the Sauder Classic Bookcase, Metal brought in profit of $1,463. The second highest selling product was the Bush Classic Bookcase, mobile with $1,221. The third highest selling product was the HP Copy Machine,color with $1,196.
+
 2.
