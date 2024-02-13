@@ -80,7 +80,7 @@ The analysis results are summarized as follows:
 
 4. The least profitable subcategory in South East Asia is Tables with a loss of -$4013. The country which they should not be sold is Singapore with low sales of $1495 compared to $32503 of Indonesia.
 
-5. The least profitable country in terms of average profit in the US was Freeport with a loss of -$44 in 2014. Freeport only had 10 orders in 2014 and the cost to ship was $34.
+5. The least profitable country in terms of average profit in the US was Freeport with a loss of **-$44** in 2014. Freeport only had 10 orders in 2014 and the cost to ship was $34.
 
 6. The subcategory with the highest average profit in Australia in 2014 was Appliances.
 
@@ -88,8 +88,8 @@ The analysis results are summarized as follows:
 
 - The top 5 products they purchase are:
 
-- HP Fax and Copier digital
-- Canon imageClass 2200 Advanced Copier
-- Samsung Smart phone cordless
-- Canon wireless fax laser
-- Ibico EPK-21 Electric Binding System
+  - HP Fax and Copier digital
+  - Canon imageClass 2200 Advanced Copier
+  - Samsung Smart phone cordless
+  - Canon wireless fax laser
+  - Ibico EPK-21 Electric Binding System
