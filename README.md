@@ -65,10 +65,16 @@ The analysis results are summarized as follows:
 
 1. a) The three countries that generated the highest profit in 2014 were the United States, India and China.
 
-- For the United States, the Canon ImageCLASS 2200 Advanced Copier brought in profit of $25,200. The second highest selling product was the Fellows PB500 Electric Punch Plastic Comb Binding Machine with Manual Bind with $7753. The third highest selling product was Hewlett Packard LaserJet 3310 Copier with $6,984.
+- For the United States, the Canon ImageCLASS 2200 Advanced Copier brought in profit of $15,680. The second highest selling product was the Hewlett Packard laserJet 3310 Copier with $3.624. The third highest selling product was the GBC DocuBind TL300 Electric Binding System with $1,911.
 
-- For India, the Sauder Classic Bookcase, Traditional brought in profit of $2,904. The second highest selling product was the Apple Smart Phone, with caller ID with $2,818. The third highest selling product was the Cisco Smart Phone, with Caller ID with $1,609.
+- For India, the Sauder Classic Bookcase, Traditional brought in profit of $2,420. The second highest selling product was the Cisco Smart Phone, with caller ID with $1,609. The third highest selling product was the Hamilton Beach Refrigerator, Red with $1,440.
 
 - For China, the Sauder Classic Bookcase, Metal brought in profit of $1,463. The second highest selling product was the Bush Classic Bookcase, mobile with $1,221. The third highest selling product was the HP Copy Machine,color with $1,196.
 
-2.
+2. The three subcategories with the highest shipping costs were Copiers, Machines and Tables.
+
+3. Nigeria had a loss of -$23,219 in 2014, being last of the three loss making countries in Africa along with Zimbabwe and Uganda. Analysis revealed that high shipping costs and high discount rates had a negative impact on profits. The higher the discount rates and the higher the shipping costs the lower the profit became and vice versa.
+
+4. The least profitable subcategory in South East Asia is Tables with a loss of -$4013. The country which they should not be sold is Singapore with low sales of $1495 compared to $32503 of Indonesia.
+
+5. The least profitable country in terms of average profit in the US is Freeport with a loss of -$44 in 2014. Freeport only had 10 orders in 2014 and the cost to ship was $34.
