@@ -2,9 +2,9 @@
 
 ### Project Overview
 
-This project aims to provide insight into the sales performance of an online global retailer. This will be done by analyzing and drawing out meaningful insight from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
+This project aims to provide insight into the sales performance of an online global retailer. This will be done by analyzing and drawing out meaningful insights from the Superstore dataset which would aid management in making informed decisions to improve performance and profitability.
 
-**_Disclaimer_** : _ all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi._
+**_Disclaimer_** : _all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi._
 
 ### Data Sources
 
@@ -86,10 +86,10 @@ The analysis results are summarized as follows:
 
 7. The 5 most valuable customers by profit generated for the company are Tamara Chand, Hunter Lopez, Raymond Buch, Bill Eplett and Sanjit Chand.
 
-The top 5 products they purchase are:
+- The top 5 products they purchase are:
 
-- HP Fax and Copier digital,
-- Canon imageClass 2200 Advanced Copier,
-- Samsung Smaert phone cordless,
+- HP Fax and Copier digital
+- Canon imageClass 2200 Advanced Copier
+- Samsung Smart phone cordless
 - Canon wireless fax laser
-- Ibico EPK-21 Electric Binding System.
+- Ibico EPK-21 Electric Binding System
