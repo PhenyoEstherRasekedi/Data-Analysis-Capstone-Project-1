@@ -61,6 +61,7 @@ The following PowerBi features were incorporated:
 - Filters
 - Tooltips
 - Interactive Slicers
+- Quick measure
 
 ### Results/Findings
 
@@ -76,9 +77,9 @@ The analysis results are summarized as follows:
 
 2. The three subcategories with the highest shipping costs were Copiers, Machines and Tables.
 
-3. Nigeria had a loss of -$23,219 in 2014, being last of the three loss making countries in Africa along with Zimbabwe and Uganda. Analysis revealed that high shipping costs and high discount rates had a negative impact on profits. The higher the discount rates and the higher the shipping costs the lower the profit became and vice versa.
+3. Nigeria had a loss of **-$23,219** in 2014, being last of the three loss making countries in Africa along with Zimbabwe and Uganda. Analysis revealed that high shipping costs and high discount rates had a negative impact on profits. The higher the discount rates and the higher the shipping costs the lower the profit became and vice versa.
 
-4. The least profitable subcategory in South East Asia is Tables with a loss of -$4013. The country which they should not be sold is Singapore with low sales of $1495 compared to $32503 of Indonesia.
+4. The least profitable subcategory in South East Asia is Tables with a loss of **-$4013**. The country which they should not be sold is Singapore with low sales of $1495 compared to $32503 of Indonesia.
 
 5. The least profitable country in terms of average profit in the US was Freeport with a loss of **-$44** in 2014. Freeport only had 10 orders in 2014 and the cost to ship was $34.
 
