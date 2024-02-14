@@ -18,6 +18,14 @@ This project aims to provide insight into the sales performance of an online glo
 
 **_Disclaimer_** : _all datasets and reports do not represent any company, institution or country, but just a dummy dataset to demonstrate capabilities of PowerBi._
 
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-1/assets/155717861/d19e6e6e-73fb-4a34-85cd-f791f8181617)
+
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-1/assets/155717861/3016f209-696b-4331-b6b1-0008479d26d8)
+
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-1/assets/155717861/1b02ed07-ca86-4dd4-878a-2e803f2d4a2b)
+
+
+
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the 'GlobalSuperstore-Capstone.xlsx-Orders.csv' file, containing detailed information about clients from 147 different countries, 10,000 products of three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
