@@ -125,4 +125,5 @@ The analysis results are summarized as follows:
   ### Limitations
 
   For South East Asia, only Cambodia, Indonesia, Malaysia, Myanmar(Burma), the Philippines, Singapore, Thailand, and Vietnam were included.
+
   For the least profitable city in the United States analysis, I discarded the cities with less than 10 Orders.
