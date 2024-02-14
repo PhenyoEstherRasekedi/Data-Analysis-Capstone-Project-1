@@ -69,7 +69,7 @@ EDA involved exploring the sales data to answer the following key questions:
   a) Which product subcategory has the highest average profit in Australia?
 
 - Question 7.
-  a)Who are the most valuable customers and what do they purchase?
+  a) Who are the most valuable customers and what do they purchase?
 
 ### Data Analysis
 
