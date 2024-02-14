@@ -22,6 +22,7 @@ This project aims to provide insight into the sales performance of an online glo
 
 ![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-1/assets/155717861/3016f209-696b-4331-b6b1-0008479d26d8)
 
+![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-1/assets/155717861/1b02ed07-ca86-4dd4-878a-2e803f2d4a2b)
 
 
 
