@@ -24,8 +24,6 @@ This project aims to provide insight into the sales performance of an online glo
 
 ![image](https://github.com/PhenyoEstherRasekedi/Data-Analysis-Capstone-Project-1/assets/155717861/1b02ed07-ca86-4dd4-878a-2e803f2d4a2b)
 
-
-
 ### Data Sources
 
 Sales Data: The primary dataset used for this analysis is the 'GlobalSuperstore-Capstone.xlsx-Orders.csv' file, containing detailed information about clients from 147 different countries, 10,000 products of three main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology (e.g., smartphones).
@@ -127,3 +125,4 @@ The analysis results are summarized as follows:
   ### Limitations
 
   For South East Asia, only Cambodia, Indonesia, Malaysia, Myanmar(Burma), the Philippines, Singapore, Thailand, and Vietnam were included.
+  For the least profitable city in the United States analysis, I discarded the cities with less than 10 Orders.
